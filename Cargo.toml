@@ -13,6 +13,7 @@ members = [
   "contracts/telemedicine",
   "contracts/referral",
   "contracts/lab-management",
+  "contracts/allergy-management",
 ]
 
 [workspace.dependencies]
