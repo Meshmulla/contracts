@@ -11,6 +11,7 @@ members = [
   "contracts/prescription-management",
   "contracts/healthcare-analytics",
   "contracts/telemedicine",
+  "contracts/patient-vitals",
   "contracts/referral",
   "contracts/lab-management",
 ]
