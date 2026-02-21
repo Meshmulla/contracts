@@ -11,6 +11,7 @@ members = [
   "contracts/access-control",
   "contracts/healthcare-analytics",
   "contracts/telemedicine",
+  "contracts/patient-vitals",
 ]
 
 [workspace.dependencies]
