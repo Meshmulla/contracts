@@ -21,6 +21,7 @@ members = [
   "contracts/emergency-medical-info",
   "contracts/imaging-radiology",
   "contracts/clinical-guideline",
+  "contracts/hospital-discharge-management",
 ]
 
 [workspace.dependencies]
